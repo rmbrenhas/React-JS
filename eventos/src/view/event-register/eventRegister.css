@@ -1,0 +1,10 @@
+.btn-register{
+    background-color: #614EA6;
+    color:#fff;
+}
+
+.btn-register:hover{
+    background-color: #f21667;
+    color:#fff;
+}
+

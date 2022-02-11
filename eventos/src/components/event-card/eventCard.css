@@ -1,0 +1,34 @@
+.footer-card{
+    color:#614ea6;
+    height:35px;
+}
+
+.btn-details{
+    background-color:#614ea6;
+    color: #fff;
+}
+
+.btn-details:hover{
+    background-color: #f21667;
+    color: #fff;
+}
+
+.card-text{
+    max-height: 100px;
+    overflow:hidden;
+    text-align: justify;
+}
+
+.img-card{
+    margin-left: 15px;
+    max-height: 200px;
+    min-width: 100%;
+}
+
+.card-body{
+    margin: 15px;
+}
+
+.views{
+    text-align: right;
+}
